@@ -1,0 +1,2 @@
+# solr
+beliana solr settings
