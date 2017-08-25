@@ -1,2 +1,5 @@
 logs
+index
+snapshot_metadata
+tlog
 *.pid
